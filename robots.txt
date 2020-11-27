@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 Disallow: /authors-sw/
 Sitemap: https://glazynov.github.io/sitemap.xml
-Host: glazynov.github.io
+Host: https://glazynov.github.io
