@@ -1,0 +1,7 @@
+# 
+
+User-agent: *
+Allow: /
+Disallow: /authors-sw/
+Sitemap: http://glazynov.github.io/sitemap.xml
+Host: glazynov.github.io
