@@ -4,57 +4,57 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator glazynov.github.io -->
+<!-- created with Free Online Sitemap Generator https://glazynov.github.io -->
 
 
 <url>
   <loc>https://glazynov.github.io/</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://glazynov.github.io/index.files/Page322.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://glazynov.github.io/index.files/Page382.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://glazynov.github.io/index.files/Page300.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://glazynov.github.io/index.files/Page302.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://glazynov.github.io/index.files/Page451.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://glazynov.github.io/index.files/Page413.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://glazynov.github.io/index.files/Page390.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
+  <loc>https://glazynov.github.io/index.files/Page322.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://glazynov.github.io/index.files/Page520.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glazynov.github.io/index.files/Page413.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glazynov.github.io/index.files/Page302.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glazynov.github.io/index.files/Page300.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glazynov.github.io/index.files/Page390.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glazynov.github.io/index.files/Page451.html</loc>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://glazynov.github.io/index.html</loc>
-  <lastmod>2020-11-27T19:58:07+00:00</lastmod>
+  <lastmod>2020-12-04T18:14:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
